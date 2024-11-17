@@ -17,7 +17,8 @@ public class SolarSystem {
         Planet2 Dros= new Planet2();
         Dros.color="23414";
         Dros.radius="black";
+        Dros.name="Venera";
          //planet 2
-        
+
     }
 }
