@@ -12,5 +12,13 @@ public class SolarSystem {
         Xros.temp="234324k";
         Xros.Color="124341";
         Xros.Radius="1414moles";
+
+
+        Planet2 Dros= new Planet2();
+        Dros.color="23414";
+        Dros.radius="black";
+        Dros.name="Venera";
+         //planet 2
+
     }
 }
